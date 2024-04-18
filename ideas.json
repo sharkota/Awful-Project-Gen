@@ -1,0 +1,46 @@
+{
+    "app": [
+        {"content": "Idea", "temperature": 1},
+        {"content": "Dating", "temperature": 1},
+        {"content": "Translator", "temperature": 1},
+        {"content": "Explosives Creation", "temperature": 1},
+        {"content": "Calculator", "temperature": 1},
+        {"content": "Website Creation", "temperature": 1},
+        {"content": "Social Media", "temperature": 1},
+        {"content": "Music", "temperature": 1},
+        {"content": "Video", "temperature": 1},
+        {"content": "Notes", "temperature": 1},
+        {"content": "Productivity", "temperature": 1},
+        {"content": "Virtual Event", "temperature": 1},
+        {"content": "Human Resources", "temperature": 1},
+        {"content": "Human Rights", "temperature": 1},
+        {"content": "Book", "temperature": 1},
+        {"content": "Cat", "temperature": 1},
+        {"content": "Dog", "temperature": 1},
+        {"content": "Soylent", "temperature": 1},
+        {"content": "Roman Empire", "temperature": 1},
+        {"content": "America", "temperature": 1}
+    ],
+    "descriptor": [
+        {"content": "Forum", "temperature": 1},
+        {"content": "Web App", "temperature": 1},
+        {"content": "Mobile App", "temperature": 1},
+        {"content": "Chat", "temperature": 1},
+        {"content": "Streaming Service", "temperature": 1},
+        {"content": "Platform", "temperature": 1},
+        {"content": "Suite", "temperature": 1}
+    ],
+    "modifier": [
+        {"content": "In React, Like Everybody Else.", "temperature": 1},
+        {"content": "With $15 Membership", "temperature": 1},
+        {"content": "With <span style='font-style: italic;'>Doctor's Hate Him!</span> Ads", "temperature": 1},
+        {"content": "Using A Stupid CSS Framework", "temperature": 1},
+        {"content": "That Only Uses Images", "temperature": 1},
+        {"content": "With Geocities' Web Design", "temperature": 1},
+        {"content": "That Posts Your IP", "temperature": 1},
+        {"content": "That's Online One Hour A Day.", "temperature": 1},
+        {"content": "That's Hosted On Neocities", "temperature": 1},
+        {"content": "For War Crimes", "temperature": 1},
+        {"content": "That's Keyboard Only", "temperature": 1}
+    ]
+}
