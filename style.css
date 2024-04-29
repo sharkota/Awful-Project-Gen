@@ -112,3 +112,16 @@ button.small {
 		transform: scale(1);
 	}
 }
+
+@media (max-width: 1000px) {
+    body{
+        scale: 0.9;
+    }
+    h1, h2{
+        font-size: 50px !important;
+    }
+    .icon, footer{
+        position: static;
+        margin: 1em;
+    }
+}
